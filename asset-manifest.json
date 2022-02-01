@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/bikayiproject/static/css/main.7a849c18.css",
-    "main.js": "/bikayiproject/static/js/main.799f2386.js",
-    "static/media/img.jpg": "/bikayiproject/static/media/img.9a928a4d33409578748e.jpg",
-    "index.html": "/bikayiproject/index.html",
-    "main.7a849c18.css.map": "/bikayiproject/static/css/main.7a849c18.css.map",
-    "main.799f2386.js.map": "/bikayiproject/static/js/main.799f2386.js.map"
+    "main.css": "/Bikayi_assignment/static/css/main.7a849c18.css",
+    "main.js": "/Bikayi_assignment/static/js/main.a46fd0f7.js",
+    "static/media/img.jpg": "/Bikayi_assignment/static/media/img.9a928a4d33409578748e.jpg",
+    "index.html": "/Bikayi_assignment/index.html",
+    "main.7a849c18.css.map": "/Bikayi_assignment/static/css/main.7a849c18.css.map",
+    "main.a46fd0f7.js.map": "/Bikayi_assignment/static/js/main.a46fd0f7.js.map"
   },
   "entrypoints": [
     "static/css/main.7a849c18.css",
-    "static/js/main.799f2386.js"
+    "static/js/main.a46fd0f7.js"
   ]
 }
