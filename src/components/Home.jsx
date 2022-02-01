@@ -70,8 +70,7 @@ export default function SimpleTable() {
 	};
 
 	const year1 = new Date().getFullYear();
-	const years = Array.from(new Array(100), (val, index) => year1 - index);
-	console.log(years);
+	const years = Array.from(new Array(122), (val, index) => year1 - index-1);
 	const filterData = (category, year) => {
 		console.log("click5");
 		console.log(category, year);
@@ -188,9 +187,11 @@ export default function SimpleTable() {
 									aria-label="Default select example"
 								>
 									<option>Select Year</option>
-									<option value="2021">2021</option>
-									<option value="2022">2022</option>
-									<option value="2023">2023</option>
+									{years.map(yr => (
+										<option value={yr}>{yr}</option>
+									))}
+
+									
 								</Form.Select>
 							</Form.Group>
 
