@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Bikayi_assignment/static/css/main.7a849c18.css",
-    "main.js": "/Bikayi_assignment/static/js/main.e91ba808.js",
+    "main.js": "/Bikayi_assignment/static/js/main.daf6c858.js",
     "static/media/img.jpg": "/Bikayi_assignment/static/media/img.9a928a4d33409578748e.jpg",
     "index.html": "/Bikayi_assignment/index.html",
     "main.7a849c18.css.map": "/Bikayi_assignment/static/css/main.7a849c18.css.map",
-    "main.e91ba808.js.map": "/Bikayi_assignment/static/js/main.e91ba808.js.map"
+    "main.daf6c858.js.map": "/Bikayi_assignment/static/js/main.daf6c858.js.map"
   },
   "entrypoints": [
     "static/css/main.7a849c18.css",
-    "static/js/main.e91ba808.js"
+    "static/js/main.daf6c858.js"
   ]
 }
