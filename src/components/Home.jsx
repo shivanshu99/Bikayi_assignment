@@ -99,7 +99,7 @@ export default function SimpleTable() {
 
 	useEffect(() => {
 		axios
-			.get("http://api.nobelprize.org/v1/prize.json")
+			.get("https://api.nobelprize.org/v1/prize.json")
 			.then(res => {
 				setTags(res.data.prizes);
 			})
